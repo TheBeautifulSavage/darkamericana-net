@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://darkamericana.net/sitemap.xml
